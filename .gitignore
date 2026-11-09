@@ -1,0 +1,10 @@
+# 忽略大型多媒体生成文件与缓存
+workspace/
+*.mp4
+*.wav
+*.mp3
+*.jpg
+*.png
+__pycache__/
+.env
+.venv/
